@@ -48,7 +48,7 @@
       "error",
       "always"
     ],
-    "quotes": ["error", "single"],
+    "quotes": ["error", "single", { "allowTemplateLiterals": true }],
     "react/react-in-jsx-scope": "off",
     // Next.js doesn't require importing React in every file
     "react/jsx-props-no-spreading": "off",
