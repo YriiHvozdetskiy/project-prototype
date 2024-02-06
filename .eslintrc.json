@@ -48,10 +48,9 @@
       "error",
       "always"
     ],
+    "quotes": ["error", "single"],
     "react/react-in-jsx-scope": "off",
     // Next.js doesn't require importing React in every file
-    "react/prop-types": "off",
-    // Disable prop-types rule if you are using TypeScript
     "react/jsx-props-no-spreading": "off",
     // Allowing spreading props
     "jsx-a11y/anchor-is-valid": [

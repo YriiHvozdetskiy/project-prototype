@@ -5,7 +5,8 @@
   "tabWidth": 3,
   "useTabs": false,
   "trailingComma": "es5",
-  "jsxBracketSameLine": false,
   "arrowParens": "avoid",
-  "bracketSpacing": false
+  "bracketSpacing": false,
+  "bracketSameLine": false,
+  "singleAttributePerLine": true
 }
