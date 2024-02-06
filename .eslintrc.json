@@ -46,7 +46,7 @@
     ],
     "semi": [
       "error",
-      "never"
+      "always"
     ],
     "react/react-in-jsx-scope": "off",
     // Next.js doesn't require importing React in every file
