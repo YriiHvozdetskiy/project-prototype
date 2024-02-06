@@ -8,7 +8,7 @@ export default function Home() {
          <div className="z-10 items-center justify-between w-full max-w-5xl font-mono text-sm lg:flex">
             <Button
                size={'lg'}
-               className={''}
+               className={'btn'}
             >
                Click on me
             </Button>
